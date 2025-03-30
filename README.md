@@ -8,6 +8,8 @@ Please make sure that you have Python 3.9 and Cuda Toolkit installed.
 ## Run the run.bat
 That should be it!
 
+**Keep the reference audio <15 seconds.**
+
 ## Common Fixes
 Make sure you are using an updated version of pip:
 
